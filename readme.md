@@ -1,3 +1,5 @@
+This is a node application
+
 What this does:
 
 * Nothing fancy
@@ -9,3 +11,8 @@ Useful for:
 
 * Connecting a simple Arduino to a local Angular webapp
 
+Libraries used:
+
+* todo
+
+License: todo
